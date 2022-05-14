@@ -1,0 +1,3 @@
+[submodule "gamble-frontend"]
+	path = gamble-frontend
+	url = https://github.com/sarnavo-AI/gamble-frontend.git
