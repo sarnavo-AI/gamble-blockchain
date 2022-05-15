@@ -1,2 +1,2 @@
 # gamble-blockchain
-# Repo is in master branch
+Repo is in master branch
